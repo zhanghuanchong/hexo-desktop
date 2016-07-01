@@ -1,0 +1,26 @@
+{
+  "name": "hexo-desktop",
+  "version": "1.0.0",
+  "description": "Desktop client built with Election for hexo to create blog faster.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "electron ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanghuanchong/hexo-desktop.git"
+  },
+  "keywords": [
+    "hexo",
+    "Electron",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Devwing Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhanghuanchong/hexo-desktop/issues"
+  },
+  "homepage": "https://github.com/zhanghuanchong/hexo-desktop#readme"
+}
