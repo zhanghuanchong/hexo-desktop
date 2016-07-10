@@ -1,12 +1,10 @@
 {
-  "name": "hexo-desktop",
+  "name": "proton-template-app",
   "version": "1.0.0",
-  "description": "Desktop client built with Election for hexo to create blog faster.",
-  "main": "main.js",
-  "keywords": [
-    "electron",
-    "hexo-desktop"
-  ],
-  "author": "DevWing",
-  "license": "MIT"
+  "description": "A simple template app for Proton",
+  "main": "app.js",
+  "author": "Connor Sears",
+  "scripts": {
+    "start": "electron ."
+  }
 }
